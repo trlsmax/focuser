@@ -11,8 +11,8 @@ Thank you all.
 
 Install
 -------
-1.Install gtk+2.0 dev package
-2.make
+1. Install gtk+2.0 dev package
+2. make
 
 Usage
 -------
