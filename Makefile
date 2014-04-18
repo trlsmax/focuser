@@ -1,6 +1,7 @@
 PRJ_NAME=focuser
 CC=gcc
 LINKER=g++
+CPPFLAGS=-I./inc
 CFLAGS=-O2 -Wall
 LDFLAGS=-L./libs -liup -liupcontrols -liup_pplot -liupcd -lcd -lcdcontextplus -lim `pkg-config --libs gtk+-2.0` -lX11 -lz
 
