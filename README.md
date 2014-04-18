@@ -2,9 +2,12 @@ HFD Focuser
 =======
 
 A simple focus assistant for astro photograph using HFD calculation.
-This tool is inspired by a similar project [astrofocuser]:http://sourceforge.net/projects/astrofocuser/ by thx8411.
-And the algorithms is base on [OpenSkyImager]:https://github.com/OpenSkyProject/OpenSkyImager by Giampiero Spezzano.
+This tool is inspired by a similar project [astrofocuser][] by thx8411.
+And the algorithms is base on [OpenSkyImager][] by Giampiero Spezzano.
 Thank you all.
+
+[astrofocuser]:http://sourceforge.net/projects/astrofocuser/
+[OpenSkyImager]:https://github.com/OpenSkyProject/OpenSkyImager
 
 Install
 -------
